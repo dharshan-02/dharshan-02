@@ -157,33 +157,19 @@ Exploring AI-powered applications using modern frameworks and APIs.
 
 ---
 
-# 📫 Connect With Me
 
-<p align="left">
-
-<a href="https://github.com/dharshan-02">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="mailto:YOURMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-</p>
-
----
-
-# 💬 Random Developer Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
 
 <div align="center">
+
+# 🚀 Keep Building.
+
+> *"The best way to predict the future is to create it."*
+
+⭐ Thank you for visiting my GitHub profile!
+
+![](https://komarev.com/ghpvc/?username=dharshan-02&label=Visitors&style=for-the-badge&color=blue)
+
+</div>
 
 ![](https://komarev.com/ghpvc/?username=dharshan-02&label=Profile+Views&color=0e75b6&style=flat)
 
