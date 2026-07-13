@@ -66,7 +66,7 @@ A production-ready MERN Stack application featuring:
 ### 🌐 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind" />
 </p>
 
 ### ⚙️ Backend
@@ -84,7 +84,7 @@ A production-ready MERN Stack application featuring:
 ### 🛠️ Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux,kali" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,postman,vscode,linux,kali" />
 </p>
 
 ### 💻 Programming Languages
