@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm **Dharshan B**
 
-### 💻 Full Stack Developer | 🤖 AI Enthusiast | 🛡️ Cybersecurity Learner
+### 💻 Full Stack Developer | 🛡️ Cybersecurity Learner
 
 <!-- Typing SVG -->
 <p>
