@@ -121,43 +121,6 @@ A production-ready MERN Stack application featuring:
 
 ---
 
-# ⭐ Featured Projects
-
-### 🎓 Automated Student Project Evaluation Hub
-
-- 🐳 Docker Sandbox
-- 🕵️ Winnowing Plagiarism Detection
-- ⚛️ MERN Stack
-- 🔐 JWT Authentication
-- 📄 PDF Reports
-
----
-
-### 🚑 Centralized Emergency Response Platform
-
-- 🚑 Ambulance Coordination
-- 🏥 Hospital Management
-- 🩸 Blood Bank Integration
-- 📍 Live Resource Tracking
-
----
-
-### 🤖 AI Projects
-
-Exploring AI-powered applications using modern frameworks and APIs.
-
----
-
-# 🏆 Achievements
-
-- 🏅 HackerRank Problem Solving
-- 🎓 Cisco Networking Academy
-- ☁️ Oracle Learning
-- 🌟 Open Source Enthusiast
-
----
-
-
 
 <div align="center">
 
