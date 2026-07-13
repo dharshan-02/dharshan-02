@@ -171,7 +171,6 @@ Exploring AI-powered applications using modern frameworks and APIs.
 
 </div>
 
-![](https://komarev.com/ghpvc/?username=dharshan-02&label=Profile+Views&color=0e75b6&style=flat)
 
 ### ⭐ If you like my work, consider starring my repositories!
 
