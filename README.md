@@ -84,13 +84,13 @@ A production-ready MERN Stack application featuring:
 ### 🛠️ Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux,kali" />
 </p>
 
 ### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c" />
+<img src="https://skillicons.dev/icons?i=java,c" />
 </p>
 
 ---
