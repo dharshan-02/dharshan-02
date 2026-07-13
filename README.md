@@ -1,27 +1,194 @@
-### Hi there 👋, I'm Dharshan B
+<div align="center">
 
-I'm a passionate and aspiring full-stack developer currently pursuing my B.Tech in Information Technology. I love building web applications and exploring new technologies to create seamless and engaging user experiences.
+# Hi 👋, I'm **Dharshan B**
 
-- 👨‍💻 **Role:** Full-Stack Developer
-- 🎓 **Education:** B.Tech Information Technology Student
-- 📍 **Institution:** Bannari Amman Institute of Technology
-- 🌱 I’m currently learning more about front-end and back-end development and exploring other technologies.
-- 👯 I’m looking to collaborate on exciting open-source or team-based web development projects.
+### 💻 Full Stack Developer | 🤖 AI Enthusiast | 🛡️ Cybersecurity Learner
 
-<p align="center">
-  <img src="illustration.png" alt="Coding illustration" width="450">
+<!-- Typing SVG -->
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+Real-world+Projects;Learning+DevOps+%26+AI;Always+Exploring+New+Technologies;Open+Source+Enthusiast" alt="Typing SVG" />
 </p>
 
-### 🛠️ My Tech Stack
-*Here are a few technologies I've been working with recently:*
+<img src="illustration.png" width="450" alt="Coding Illustration"/>
 
-- **Frontend:** HTML5, CSS3, JavaScript, React
-- **Backend:** Node.js, Express
-- **Databases:** MongoDB, MySQL
-- **Tools:** Git, GitHub, VS Code, Docker, Postman
+</div>
 
-<br>
+---
 
-<p align="center">
-  Show some ❤️ by starring some of the repositories!.
+# 🚀 About Me
+
+🎓 Final Year **B.Tech Information Technology** Student
+
+🏫 **Bannari Amman Institute of Technology**
+
+💻 Passionate **Full Stack Developer**
+
+🛡️ Cybersecurity Enthusiast
+
+🤖 AI & Machine Learning Learner
+
+🐳 Docker & DevOps Beginner
+
+🌱 I enjoy building scalable web applications, solving real-world problems, and continuously learning modern technologies.
+
+👯 Looking to collaborate on exciting Full Stack and Open Source projects.
+
+---
+
+# 🌱 Currently Learning
+
+- ⚛️ MERN Stack
+- 🐳 Docker
+- ☸️ Kubernetes
+- 🏗️ System Design
+- 🤖 AI Integration
+- ☁️ Cloud Computing
+
+---
+
+# 🚀 Currently Working On
+
+## 🎓 Automated Student Project Evaluation Hub
+
+A production-ready MERN Stack application featuring:
+
+- 🐳 Secure Docker Code Execution
+- 🕵️ Custom Winnowing Plagiarism Detection
+- 🔐 JWT Authentication
+- 📄 PDF Report Generation
+- 📊 Analytics Dashboard
+- 👨‍🏫 Faculty & Student Portals
+
+---
+
+# 🛠️ Tech Stack
+
+### 🌐 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind" />
 </p>
+
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 🛠️ Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux" />
+</p>
+
+### 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c" />
+</p>
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dharshan-02&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharshan-02&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=dharshan-02&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📊 Contribution Graph
+
+[![Dharshan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dharshan-02&theme=tokyo-night)](https://github.com/dharshan-02)
+
+---
+
+# ⭐ Featured Projects
+
+### 🎓 Automated Student Project Evaluation Hub
+
+- 🐳 Docker Sandbox
+- 🕵️ Winnowing Plagiarism Detection
+- ⚛️ MERN Stack
+- 🔐 JWT Authentication
+- 📄 PDF Reports
+
+---
+
+### 🚑 Centralized Emergency Response Platform
+
+- 🚑 Ambulance Coordination
+- 🏥 Hospital Management
+- 🩸 Blood Bank Integration
+- 📍 Live Resource Tracking
+
+---
+
+### 🤖 AI Projects
+
+Exploring AI-powered applications using modern frameworks and APIs.
+
+---
+
+# 🏆 Achievements
+
+- 🏅 HackerRank Problem Solving
+- 🎓 Cisco Networking Academy
+- ☁️ Oracle Learning
+- 🌟 Open Source Enthusiast
+
+---
+
+# 📫 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/dharshan-02">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:YOURMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</p>
+
+---
+
+# 💬 Random Developer Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=dharshan-02&label=Profile+Views&color=0e75b6&style=flat)
+
+### ⭐ If you like my work, consider starring my repositories!
+
+Made with ❤️ by **Dharshan B**
+
+</div>
