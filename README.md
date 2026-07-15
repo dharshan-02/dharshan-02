@@ -25,9 +25,6 @@
 
 🛡️ Cybersecurity Enthusiast
 
-🤖 AI & Machine Learning Learner
-
-🐳 Docker & DevOps Beginner
 
 🌱 I enjoy building scalable web applications, solving real-world problems, and continuously learning modern technologies.
 
