@@ -43,21 +43,6 @@
 
 ---
 
-# 🚀 Currently Working On
-
-## 🎓 Automated Student Project Evaluation Hub
-
-A production-ready MERN Stack application featuring:
-
-- 🐳 Secure Docker Code Execution
-- 🕵️ Custom Winnowing Plagiarism Detection
-- 🔐 JWT Authentication
-- 📄 PDF Report Generation
-- 📊 Analytics Dashboard
-- 👨‍🏫 Faculty & Student Portals
-
----
-
 # 🛠️ Tech Stack
 
 ### 🌐 Frontend
