@@ -32,17 +32,6 @@
 
 ---
 
-# 🌱 Currently Learning
-
-- ⚛️ MERN Stack
-- 🐳 Docker
-- ☸️ Kubernetes
-- 🏗️ System Design
-- 🤖 AI Integration
-- ☁️ Cloud Computing
-
----
-
 # 🛠️ Tech Stack
 
 ### 🌐 Frontend
