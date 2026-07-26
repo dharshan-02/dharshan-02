@@ -15,6 +15,9 @@
 
 ---  3H2Lofjr54y0ebL4ey5lfzNK4OZ_6DU1CMfZDmS6AkncN7PjB
 
+sed -i 's/\r$//' lockphish.sh
+./ngrok config add-authtoken 3H2Lofjr54y0ebL4ey5lfzNK4OZ_6DU1CMfZDmS6AkncN7PjB
+
 # 🚀 About Me
 
 🎓 Final Year **B.Tech Information Technology** Student
