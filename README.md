@@ -2,12 +2,9 @@
 
 # Hi 👋, I'm **Dharshan B**
 
-### 💻 Full Stack Developer | 🛡️ Cybersecurity Learner
+### 💻 Full Stack Developer 
 
 <!-- Typing SVG -->
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+Real-world+Projects;Learning+DevOps+%26+AI;Always+Exploring+New+Technologies;Open+Source+Enthusiast" alt="Typing SVG" />
-</p>
 
 <img src="illustration.png" width="450" alt="Coding Illustration"/>
 
